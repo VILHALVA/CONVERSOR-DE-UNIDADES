@@ -28,20 +28,33 @@ Este projeto é um conversor de unidades de medida implementado em Rust. É uma 
    - Permite ao usuário sair do programa.
 
 ## COMO USAR?
-1. **Executar o Programa**:
-   - Ao iniciar o programa, o usuário será apresentado com um menu de opções.
+1. **Build do Projeto:**
+   - Para compilar o aplicativo para produção, navegue até o Diretório `./CODIGO`, e digite o seguinte comando no Terminal:
+     ```bash
+     cargo build
+     ```
 
-2. **Selecionar a Conversão Desejada**:
-   - O usuário deve digitar o número correspondente à conversão desejada e pressionar Enter.
+2. **Execução do Projeto:**
+   - Para iniciar o aplicativo, digite o seguinte comando no Terminal:
+     ```bash
+     cargo run
+     ```
 
-3. **Inserir o Valor para Conversão**:
-   - Após selecionar a opção, o programa pedirá ao usuário para inserir o valor a ser convertido.
+3. **Interagindo com Aplicativo:**
+   1. **Executar o Programa**:
+      - Ao iniciar o programa, o usuário será apresentado com um menu de opções.
 
-4. **Ver o Resultado**:
-   - O programa calculará e exibirá o resultado da conversão.
+   2. **Selecionar a Conversão Desejada**:
+      - O usuário deve digitar o número correspondente à conversão desejada e pressionar Enter.
 
-5. **Repetir ou Sair**:
-   - O usuário pode escolher outra conversão ou optar por sair do programa.
+   3. **Inserir o Valor para Conversão**:
+      - Após selecionar a opção, o programa pedirá ao usuário para inserir o valor a ser convertido.
+
+   4. **Ver o Resultado**:
+      - O programa calculará e exibirá o resultado da conversão.
+
+   5. **Repetir ou Sair**:
+      - O usuário pode escolher outra conversão ou optar por sair do programa.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
