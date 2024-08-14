@@ -28,19 +28,13 @@ Este projeto é um conversor de unidades de medida implementado em Rust. É uma 
    - Permite ao usuário sair do programa.
 
 ## COMO USAR?
-1. **Build do Projeto:**
-   - Para compilar o aplicativo para produção, navegue até o Diretório `./CODIGO`, e digite o seguinte comando no Terminal:
-     ```bash
-     cargo build
-     ```
-
-2. **Execução do Projeto:**
-   - Para iniciar o aplicativo, digite o seguinte comando no Terminal:
+1. **Execução do Projeto:**
+   - Para iniciar o aplicativo, navegue até o Diretório `./CODIGO`, e digite o seguinte comando no Terminal:
      ```bash
      cargo run
      ```
 
-3. **Interagindo com Aplicativo:**
+2. **Interagindo com Aplicativo:**
    1. **Executar o Programa**:
       - Ao iniciar o programa, o usuário será apresentado com um menu de opções.
 
